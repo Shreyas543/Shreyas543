@@ -3,9 +3,10 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/19ARwduANNCtcflJ4_9JkvBFumGkE-f2nA8Q77NA9Fs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY2hvY2stY29k/aW5nLWM3OGY2ZWxq/MzJzZm9pOHEuZ2lm.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shryas543&label=Profile%20views&color=0e75b6&style=flat" alt="shryas543" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shreyas" target="blank"><img src="https://img.shields.io/twitter/follow/shreyas?logo=twitter&style=for-the-badge" alt="shreyas" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas543&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas543" /> </p>
+
+<p align="left"> <a href="https://twitter.com/shreyas0543" target="blank"><img src="https://img.shields.io/twitter/follow/shreyas0543?logo=twitter&style=for-the-badge" alt="shreyas0543" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development Projects**
 
@@ -19,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shreyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreyas khobragade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyas khobragade" height="30" width="40" /></a>
+<a href="https://twitter.com/shreyas0543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyas0543" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/shreyas-khobragade-4bb390237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shreyas-khobragade-4bb390237" height="30" width="40" /></a>
 <a href="https://instagram.com/s_k___shreyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_k___shreyas" height="30" width="40" /></a>
 </p>
 
